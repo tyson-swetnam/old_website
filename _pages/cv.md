@@ -11,30 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Ecology and Evolutionary Biology, University of Arizona, 2002
+* M.S. in Watershed Management, University of Arizona, 2006
+* Ph.D in Watershed Management, University of Arizona, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* CyVerse: Science Informatician
+  * 2016 - Present
+  * University of Arizona
+  * Duties included: Developing Spatial Data Infrastructure
+  * Supervisor: Associate Professor Eric Lyons
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Post-Doctoral Research: School of Natural Resources and Environment, University of Arizona
+  * 2015-2016
+  * Duties included: sUAS, Remote Sensing of dryland ecosystems
+  * Supervisor: Professor Mitchel McClaran
+
+* Post-Doctoral Research: Geosciences, University of Arizona
+  * 2013-2015
+  * Duties included: Critical Zone Observatory Network
+  * Supervisor: Professor Jon Pelletier
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ecology
+  * Dendroecology
+  * Landscape ecology
+  * Metabolic scaling theory
+* Biogeoscience
+  * Carbon cycle
+  * Wildfires
+  * Climatology
+  * Geomorphology
+* GIS
+  * Structure from Motion
+  * lidar
+  * Spectral analyses
+  * kNN
+* Data Science
+  * Python
+  * R
+  * Matlab
+  * Bash
 
 Publications
 ======
@@ -56,4 +75,12 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 4 different slack teams
+  * CyVerse
+  * TerraRef
+  * DesignSafe
+  * Agave
+
+* University of Arizona Rugby
+  * Club Faculty Advisor
+  * Assist. Coach
