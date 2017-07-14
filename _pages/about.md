@@ -22,4 +22,4 @@ Click the links to find out about my research!
 More Info
 ======
 
-[Cyverse](https://www.cyverse.org)
+[Cyverse](http://www.cyverse.org)
