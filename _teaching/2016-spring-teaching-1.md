@@ -1,5 +1,5 @@
 ---
-title: "SRER Resource Mapping"
+title: "Resource Mapping"
 collection: teaching
 type: "Undergraduate / Graduate course"
 permalink: /teaching/2016-spring-teaching-1
