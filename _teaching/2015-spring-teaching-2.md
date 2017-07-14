@@ -2,15 +2,15 @@
 title: "Introduction to Wildland Fire"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of Arizona, School of Natural Resources and Environment"
-date: 2015-01-01
+date: 2014-01-01
 location: "Tucson, AZ, USA"
 ---
 
-I previously worked with Dr. Donald A. Falk (2009-2012) to develop the course: RNR 355 Introduction to Wildland Fire.
+I previously worked with Dr. Donald A. Falk (2009-2012) as a teaching assistant to develop the course: RNR 355 Introduction to Wildland Fire.
 
-I have since given an invited lecture in the course, last in 2015.
+In the years since, I have given an invited lecture on carbon cycling, the last time in 2014.
 
 Guest Lecture on Carbon Cycling
 ======
@@ -20,5 +20,5 @@ Guest Lecture on Carbon Cycling
 Old Class Website
 ======
 
-[Website](https://cals.arizona.edu/classes/rnr355/)
+I maintained the [class website](https://cals.arizona.edu/classes/rnr355/) while working as the teaching assistant.
 
