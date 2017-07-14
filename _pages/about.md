@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-The webpages of Tyson L. Swetnam, Science Informatician
-
+The professional webpages of Tyson L. Swetnam.
 
 A data-driven personal website
 ======
 
-My work concerns spatial data analysis and spatial data infrastructure for research computing in the life sciences.
+My education was in ecology and watershed management, with a heavy focus on remote sensing and geographic information systems (GIS).
+
+I have worked for the DOI National Park Service, USDA Forest Service, as a private contractor doing dendroecology research, and as an academic researcher in natural resources and geosciences.
+
+My current work concerns large scale spatial data analysis and spatial data infrastructure for research computing in the life sciences as part of a NSF funded cyberinfrastructure project.
 
 More Info
 ======
