@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-The professional webpages of Tyson L. Swetnam.
+My formal education was in landscape ecology and watershed management with a focus on remote sensing and geographic information systems (GIS).
+
+I have worked for the DOI National Park Service, USDA Forest Service, as a private contractor doing dendroecology research, and as an academic researcher in natural resources and geosciences, before moving into the data sciences.
+
+My current work concerns large scale spatial data analysis and spatial data infrastructure for research computing in the life sciences as part of a NSF funded cyberinfrastructure project.
 
 A data-driven personal website
 ======
 
-My education was in ecology and watershed management, with a heavy focus on remote sensing and geographic information systems (GIS).
-
-I have worked for the DOI National Park Service, USDA Forest Service, as a private contractor doing dendroecology research, and as an academic researcher in natural resources and geosciences.
-
-My current work concerns large scale spatial data analysis and spatial data infrastructure for research computing in the life sciences as part of a NSF funded cyberinfrastructure project.
+Click the links to find out about my research!
 
 More Info
 ======
