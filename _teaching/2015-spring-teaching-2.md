@@ -1,20 +1,24 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Lecture"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Arizona, School of Natural Resources and Environment"
 date: 2015-01-01
-location: "City, Country"
+location: "Tucson, AZ, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I previously worked with Dr. Donald A. Falk (2009-2012) to develop the course: RNR 355 Introduction to Wildland Fire.
 
-Heading 1
+I have since given an invited lecture in the course, last in 2015.
+
+Guest Lecture on Carbon Cycling
 ======
 
-Heading 2
+[Lecture](http://prezi.com/m_1y29razuib/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+
+Old Class Website
 ======
 
-Heading 3
-======
+[Website](https://cals.arizona.edu/classes/rnr355/)
+
