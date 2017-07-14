@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to Wildland Fire"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/2015-spring-teaching-1
