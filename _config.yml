@@ -240,8 +240,8 @@ defaults:
 
 # Header
 header:
-  overlay_image: /assets/images/cyverse.jpg
-  caption: "Photo credit: T.L. Swetnam"
+  overlay_image: /assets/cyverse_rgb.png
+  caption: "Photo credit: CyVerse"
   cta_label: "More Info"
   cta_url: "http://www.cyverse.org"
 
