@@ -189,7 +189,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: false
       read_time: true
       comments: true
@@ -200,14 +200,14 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
-      layout: splash
+      layout: single
       author_profile: true
       share: true
       comments: true
@@ -216,7 +216,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: splash
+      layout: single
       author_profile: true
       share: true
       comments: true
@@ -225,7 +225,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: splash
+      layout: single
       author_profile: false
       share: true
       comment: true
@@ -240,7 +240,7 @@ defaults:
 
 # Header
 header:
-  overlay_image: /assets/cyverse_rgb.png
+  overlay_image: /assets/images/cyverse_rgb.png
   caption: "Photo credit: CyVerse"
   cta_label: "More Info"
   cta_url: "http://www.cyverse.org"
