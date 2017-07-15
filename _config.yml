@@ -237,7 +237,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
+
+# Header
+header:
+  overlay_image: /assets/images/cyverse.jpg
+  caption: "Photo credit: T.L. Swetnam"
+  cta_label: "More Info"
+  cta_url: "http://www.cyverse.org"
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
