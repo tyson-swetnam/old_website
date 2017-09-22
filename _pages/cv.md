@@ -44,7 +44,14 @@ Skills
   * Wildfires
   * Climatology
   * Geomorphology
-* GIS
+* Geographic Information Systems
+  * OSGEO (GRASS, GDAL, QGIS) 
+  * SAGA-GIS
+  * PDAL
+  * CloudCompare
+  * FUSION
+  * ArcGIS
+* Remote Sensing
   * sUAS Remote Pilot Airman Certificate Standard 
   * Structure from Motion
   * lidar
@@ -55,7 +62,9 @@ Skills
     * R
     * Matlab
     * Bash
-
+  * Cloud
+  * HPC
+  * XSEDE
 Publications
 ======
   <ul>{% for post in site.publications %}
