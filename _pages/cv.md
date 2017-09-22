@@ -21,17 +21,17 @@ Work experience
   * 2016 - Present
   * University of Arizona
   * Duties included: Developing Spatial Data Infrastructure
-     * Supervisor: Associate Professor Eric Lyons
+     * Supervisor: Assoc.Prof. Eric Lyons
 
 * Post-Doctoral Research: School of Natural Resources and Environment, University of Arizona
   * 2015-2016
   * Duties included: sUAS, Remote Sensing of dryland ecosystems
-     * Supervisor: Professor Mitchel McClaran
+     * Supervisor: Prof. Mitchel McClaran
 
 * Post-Doctoral Research: Geosciences, University of Arizona
   * 2013-2015
   * Duties included: Critical Zone Observatory Network
-     * Supervisor: Professor Jon Pelletier
+     * Supervisor: Prof. Jon Pelletier
   
 Skills
 ======
@@ -49,7 +49,6 @@ Skills
   * Structure from Motion
   * lidar
   * Spectral analyses
-  * kNN
 * Data Science  
   * Software / Data Carpentry Instructor
     * Python
@@ -77,7 +76,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 4 different slack teams
+* Currently assigned SLACK teams
   * CyVerse
   * TerraRef
   * DesignSafe
@@ -85,4 +84,4 @@ Service and leadership
 
 * University of Arizona Rugby
   * Club Faculty Advisor
-  * Assist. Coach
+  * Assistant Coach
