@@ -23,16 +23,26 @@ Work experience
   * Duties included: Developing Spatial Data Infrastructure
      * Supervisor: Assoc.Prof. Eric Lyons
 
-* Post-Doctoral Research: School of Natural Resources and Environment, University of Arizona
-  * 2015-2016
-  * Duties included: sUAS, Remote Sensing of dryland ecosystems
+* Post-Doctorate: School of Natural Resources and Environment, University of Arizona
+  * 2015 - 2016
+  * Duties included: sUAS, Remote Sensing
      * Supervisor: Prof. Mitchel McClaran
 
-* Post-Doctoral Research: Geosciences, University of Arizona
-  * 2013-2015
-  * Duties included: Critical Zone Observatory Network
+* Post-Doctorate: Geosciences, University of Arizona
+  * 2013 - 2015
+  * Duties included: Geoscience, Critical Zone Observatory Network
      * Supervisor: Prof. Jon Pelletier
-  
+     
+* Research assistant: Laboratory of Tree Ring Research
+   * 2006 - 2013
+   * Duties included: Dendrochronology, GIS
+     * Supervisor: Prof. Donald Falk
+     
+* Fire Management Specialist, USDA Forest Service
+   * 2008 - 2012
+   * Duties included: Forestry, Carbon mensuration
+     * Supervisor: Sherry Tune
+
 Skills
 ======
 * Ecology
