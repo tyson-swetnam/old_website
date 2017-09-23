@@ -41,7 +41,7 @@ Work experience
 * Fire Management Specialist, USDA Forest Service
    * 2008 - 2012
    * Duties included: Forestry, Carbon mensuration
-     * Supervisor: Sherry Tune
+     * Supervisor: Forest Supervisor Sherry Tune (Allegheny NF)
 
 Skills
 ======
