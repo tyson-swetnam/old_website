@@ -21,7 +21,7 @@ Work experience
   * 2016 - Present
   * University of Arizona
   * Duties included: Developing Spatial Data Infrastructure
-     * Supervisor: Assoc.Prof. Eric Lyons
+     * Supervisor: Assoc. Prof. Eric Lyons
 
 * Post-Doctorate: School of Natural Resources and Environment, University of Arizona
   * 2015 - 2016
