@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* CyVerse: Science Informatician
+* Science Informatician: BIO5 Institute, University of Arizona
+  * CyVerse
   * 2016 - Present
-  * University of Arizona
   * Duties included: Developing Spatial Data Infrastructure
      * Supervisor: Assoc. Prof. Eric Lyons
 
@@ -28,12 +28,12 @@ Work experience
   * Duties included: sUAS, Remote Sensing
      * Supervisor: Prof. Mitchel McClaran
 
-* Post-Doctorate: Geosciences, University of Arizona
+* Post-Doctorate: Department of Geosciences, University of Arizona
   * 2013 - 2015
   * Duties included: Geoscience, Critical Zone Observatory Network
      * Supervisor: Prof. Jon Pelletier
      
-* Research assistant: Laboratory of Tree Ring Research
+* Research assistant: Laboratory of Tree Ring Research, University of Arizona
    * 2006 - 2013
    * Duties included: Dendrochronology, GIS
      * Supervisor: Prof. Donald Falk
