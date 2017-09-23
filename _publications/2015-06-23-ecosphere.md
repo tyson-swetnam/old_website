@@ -2,7 +2,7 @@
 title: "Discriminating disturbance from natural variation with LiDAR in semi-arid forests in the southwestern USA"
 collection: publications
 permalink: /publication/2015-06-23-ecosphere
-excerpt: 'Discriminating amongst spatial configurations and climax size of trees in forests along varying physical gradients from time since last disturbance is a significant component of applied forest management.'
+excerpt: 'Discriminating amongst spatial configurations and climax size of trees in forests.'
 date: 2015-06-23
 venue: 'Ecosphere'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1890/ES14-00384.1/full'
