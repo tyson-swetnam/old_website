@@ -1,5 +1,5 @@
 ---
-title: "CyVerse Focus-Forum 10/27/2017"
+title: "CyVerse Focus-Forum"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-10-27-cyverseff
