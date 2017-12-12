@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I spent the first part of my career as a wildland firefighter and fire management specialist for the US DOI National Park Service, and USDA Forest Service in Southeastern Arizona. My graduate education was in natural resource management with a heavy focus on GIS and remote sensing. 
+My first career was as a wildland firefighter and fire management specialist for the US DOI National Park Service and USDA Forest Service. 
 
-My current work concerns spatial data infrastructure for research computing in the life sciences as part of a NSF funded cyberinfrastructure project called [CyVerse](http://www.cyverse.org).
+My education in natural resource management and dendrochronology came with a strong emphasis on GIS and remote sensing which became the focus of my current work. 
+
+Today I work mostly in spatial data infrastructure for research computing in the life sciences as part of [CyVerse](http://www.cyverse.org).
