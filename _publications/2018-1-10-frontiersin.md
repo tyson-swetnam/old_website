@@ -1,7 +1,7 @@
 ---
 title: "Considerations for achieving cross-platform point cloud data fusion across different dryland ecosystem structural states."
 collection: publications
-permalink: /publication/2017-1-10-frontiersin
+permalink: /publication/2018-1-10-frontiersin
 excerpt: '10.3389/fpls.2017.02144'
 date: 2018-1-10
 venue: 'Frontiers in Plant Sciences'
