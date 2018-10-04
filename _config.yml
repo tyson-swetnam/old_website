@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "T.L. Swetnam | Science Informatician"
+title                    : "T.L. Swetnam | Geoinformatician"
 title_separator          : "-"
 name                     : &name "Tyson Lee Swetnam"
-description              : &description "Science Informatician [CyVerse](http://cyverse.org)"
+description              : &description "Data Scientist [CyVerse](http://cyverse.org)"
 url                      : https://tyson-swetnam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tyson-swetnam/tyson-swetnam.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "T.L. Swetnam"
   avatar           : "profile_small.png"
-  bio              : "Science Informatician | Landscape Ecologist | Data Scientist"
+  bio              : "Geoinformatician | Data Scientist"
   location         : "Tucson, AZ"
   employer         : "University of Arizona"
   googlescholar    : "https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en&authuser=1"
