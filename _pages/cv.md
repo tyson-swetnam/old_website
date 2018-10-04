@@ -111,6 +111,3 @@ Service and leadership
   * DesignSafe
   * Agave
   * Planet Labs Education and Research
-  
-* [University of Arizona Rugby](https://www.arizonarugby.org/)
-  *  Campus Recreaction Faculty Advisor (Men & Women)
