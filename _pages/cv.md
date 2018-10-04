@@ -96,12 +96,21 @@ Teaching
   
 Service and leadership
 ======
-* Currently assigned SLACK teams
+
+* [Research Bazaar 2018](https://resbaz.github.io/resbaz2018/)
+  * Member [ResBaz AZ](https://github.com/resbazaz)
+
+* [The Carpentries](https://carpentries.org/) 
+  * Instructor
+  * Geospatial Lessons Maintainer
+
+* Current SLACK teams
   * CyVerse
+  * The Carpentries
   * TerraRef
   * DesignSafe
   * Agave
-
-* University of Arizona Rugby
-  * Club Faculty Advisor
-  * Assistant Coach
+  * Planet Labs Education and Research
+  
+* [University of Arizona Rugby](https://www.arizonarugby.org/)
+  *  Campus Recreaction Faculty Advisor (Men & Women)
