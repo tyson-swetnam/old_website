@@ -1,5 +1,5 @@
 ---
-title: Research Insights in Semi-Arid Ecosystems 2018
+title: 2018-10-20 00:00:00 +0000
 collection: talks
 type: Talk
 permalink: "/talks/2018-10-20-rise"
