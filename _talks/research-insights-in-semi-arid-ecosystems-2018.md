@@ -2,11 +2,13 @@
 title: Research Insights in Semi-Arid Ecosystems 2018
 collection: talks
 type: Talk
-permalink: "/talks/2017-11-15-ua-library-gis-day"
-venue: University of Arizona Library
-date: 2017-11-15 00:00:00 +0000
+permalink: "/talks/2018-10-20-rise"
+venue: 'University of Arizona '
+date: 2018-10-20 07:00:00 +0000
 location: Tucson, AZ
 published: false
 
 ---
-[Lightning Talk](https://gitpitch.com/tyson-swetnam/ua-library-lightning-talk#/)
+[https://www.tucson.ars.ag.gov/rise/](https://www.tucson.ars.ag.gov/rise/ "https://www.tucson.ars.ag.gov/rise/")
+
+[https://prezi.com/p/nm3jeguks0-e/](https://prezi.com/p/nm3jeguks0-e/  "PREZI")
