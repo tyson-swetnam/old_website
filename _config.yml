@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "T.L. Swetnam | Geoinformatician"
+title                    : "T.L. Swetnam | Assistant Research Professor of Geoinformatics"
 title_separator          : "-"
 name                     : &name "Tyson Lee Swetnam"
 description              : &description "Data Scientist [CyVerse](http://cyverse.org)"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "T.L. Swetnam"
   avatar           : "profile_small.png"
-  bio              : "Geoinformatician | Data Scientist"
+  bio              : "Assistant Research Professor | Geoinformatics | Data Science"
   location         : "Tucson, AZ"
   employer         : "University of Arizona"
   googlescholar    : "https://scholar.google.com/citations?user=nanIeAYAAAAJ&hl=en&authuser=1"
