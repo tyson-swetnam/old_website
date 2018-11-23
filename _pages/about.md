@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My first career was in wildland firefighting, working for the US DOI National Park Service. Later I worked as a Fire Management Specialist for the USDA Forest Service.
+My first career was in wildland firefighting, working for the US DOI National Park Service. Later, I worked as a Fire Management Specialist for the USDA Forest Service.
 
 My graduate education in [natural resources management](https://snre.arizona.edu/), dendrochronology and dendroecology [<sup>1</sup>](https://ltrr.arizona.edu/)<sup>,</sup>[<sup>2</sup>](http://rmtrr.org/), had a strong emphasis in Geographic Information Systems (GIS) and Remote Sensing of large data sets. These broader topics in data science eventually became the dominant foci of my current research.
 
