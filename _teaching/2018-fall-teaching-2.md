@@ -1,5 +1,5 @@
 ---
-title: "Open Source GIS G-604"
+title: "Open Source GIS GEOG 604"
 collection: teaching
 type: "Class"
 permalink: /teaching/2018-fall-teaching-2
