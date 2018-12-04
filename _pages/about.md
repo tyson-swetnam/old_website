@@ -16,7 +16,7 @@ My graduate education in [natural resources management](https://snre.arizona.edu
 
 ![6a](https://tyson-swetnam.github.io/images/20161121_172132%20(1).jpg)
 
-Today, I am an Assistant Research Professor of [*Geoinformatics*](https://en.wikipedia.org/wiki/Geoinformatics) at the University of Arizona [BIO5 Institute](http://www.bio5.org/). I work on spatial data cyberinfrastructure for [CyVerse](http://www.cyverse.org), collaborating with a diverse group of data science oriented projects in the life and earth sciences.
+Today, I am an Research Assistant Professor of [*Geoinformatics*](https://en.wikipedia.org/wiki/Geoinformatics) at the University of Arizona [BIO5 Institute](http://www.bio5.org/). I work on spatial data cyberinfrastructure for [CyVerse](http://www.cyverse.org), collaborating with a diverse group of data science oriented projects in the life and earth sciences.
 
 ![cyverse](https://tyson-swetnam.github.io/images/cyverse_cmyk.png)
 
