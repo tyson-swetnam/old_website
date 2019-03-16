@@ -1,3 +1,4 @@
+---
 title: "NEON CyVerse Workshop"
 collection: teaching
 type: "Workshop"
