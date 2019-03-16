@@ -1,7 +1,7 @@
 title: "NEON CyVerse Workshop"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2019-winter-teaching-0
+permalink: /teaching/2019-spring-teaching-0
 venue: "NEON, Battelle Inc."
 date: 2019-01-09
 location: "Boulder CO, USA"
