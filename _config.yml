@@ -207,7 +207,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: splash
+      layout: single
       author_profile: true
       share: true
       comments: true
@@ -216,7 +216,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: splash
+      layout: single
       author_profile: true
       share: true
       comments: true
@@ -234,7 +234,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: splash
+      layout: single
       author_profile: true
       share: true
 
