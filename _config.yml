@@ -11,9 +11,9 @@ title                    : "T.L. Swetnam | Research Assistant Professor of Geoin
 title_separator          : "-"
 name                     : &name "Tyson Lee Swetnam"
 description              : &description "Data Scientist [CyVerse](http://cyverse.org)"
-url                      : https://tyson-swetnam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tyson-swetnam.github.io/old_website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tyson-swetnam/tyson-swetnam.github.io"
+repository               : "tyson-swetnam/old_website"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
